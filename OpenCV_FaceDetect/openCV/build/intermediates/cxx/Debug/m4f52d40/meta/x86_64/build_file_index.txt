@@ -1,1 +1,0 @@
-F:\mobileTH\LAB6\OpenCV_FaceDetect\openCV\libcxx_helper\CMakeLists.txt
